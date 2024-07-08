@@ -12,7 +12,7 @@ int main(){
 
     struct Rectangle r;
     r.length = 10;
-    r.breadth = 5;
+    r.breadth = 7;
 
     cout<<r.length<<endl;
     cout<<r.breadth<<endl;
